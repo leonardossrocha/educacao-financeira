@@ -4,7 +4,7 @@
 
 ### Descrição
 
-Material para estudo de educação financeira, que conta com 40 horas. O repositório conta com todo o material utilizando para esse curso.
+Material para estudo de educação financeira, que conta com 40 horas. O repositório conta com todo o material utilizando para esse curso. 
 
 ### Público alvo
 
@@ -38,4 +38,12 @@ O Planejamento do contéudo ministrado nesse curso, segue um planejamento previa
 [Cidadania Financeira - Banco Central](https://www.bcb.gov.br/cidadaniafinanceira)  
 [Orientações para Mapa da Empatia - UFPA](https://ead.ufpa.br/pluginfile.php/615810/mod_resource/content/4/Mapa%20da%20Empatia.pdf)  
 [Caderno de Educação Financeira e Gestão de Finanças Pessoais - Banco Central](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)  
+
+
+
+## Autor
+
+[Professor Leonardo Rocha](https://www.github.com/profleonardorocha)    
+[Instagram](https://www.instagram.com/rochanalogica)  
+[Leonardo Rocha](https://www.github.com/leonardossrocha)
 
