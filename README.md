@@ -21,7 +21,7 @@ Para o conteúdo desse curso, foi considerado um Caderno disponibilizado pelo Ba
 
 | Conteúdo                                                        | Link                       |
 |-----------------------------------------------------------------|----------------------------|
-| Educação Financeira - Aula 1 - Design Thinking                  | https://abrir.link/iPUle   |
+| Educação Financeira - Encontro 1 - Design Thinking              | https://abrir.link/iPUle   |
 | Em construção                  | Em Breve   |
 | Em construção                  | Em Breve   |
 | Em construção                  | Em Breve   |
