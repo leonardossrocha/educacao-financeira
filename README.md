@@ -4,7 +4,7 @@
 
 ### Descrição
 
-Material para estudo de educação financeira, que conta com 40 horas. O repositório conta com todo o material utilizando para esse curso. 
+Material para estudo de educação financeira, com carga horária com 40 horas. O repositório conta com todo o material utilizando para esse curso. 
 
 ### Público alvo
 
